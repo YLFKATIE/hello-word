@@ -1,3 +1,5 @@
+52.82.33.2:8004/?token=1d3a050d83168a7cf1c6809110048f26b32709e03af9b398
+
 def get_features(df, _date):
     
     if type(_date) == str:
